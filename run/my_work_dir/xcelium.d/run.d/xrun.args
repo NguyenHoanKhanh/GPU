@@ -1,0 +1,14 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-work
+WORK
+-access
++r
+../test/testbench.v
+-l
+./my_work_dir/xrun.log
+-xmlibdirpath
+./my_work_dir
++define+RTL_VERIFY
