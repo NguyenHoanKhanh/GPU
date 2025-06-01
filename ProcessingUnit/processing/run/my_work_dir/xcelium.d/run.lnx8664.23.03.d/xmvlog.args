@@ -1,0 +1,26 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-XLMODE
+./my_work_dir/xcelium.d/run.lnx8664.23.03.d
+-RUNMODE
+-amsdlibdir
+./my_work_dir/xcelium.d/AMSD
+-WORK
+WORK
+../test/testbench.v
+-XMLIBDIRPATH
+./my_work_dir
+-DEFINE
+RTL_VERIFY
+-CDSLIB
+./my_work_dir/xcelium.d/run.lnx8664.23.03.d/cdsrun.lib
+-HDLVAR
+./my_work_dir/xcelium.d/run.lnx8664.23.03.d/hdlrun.var
+-no_analogsolver
+-MESSAGES
+-UPDATE
+-XLLIBSTORE
+./my_work_dir/xcelium.d/run.lnx8664.23.03.d/xllibs
+-ALLOWUNBOUND

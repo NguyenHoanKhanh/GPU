@@ -1,0 +1,5 @@
+# Chương trình ví dụ
+add r3@temp0.xyzw, r2@param0.xyzw, r1@param0.xyzw
+sub r2@temp0.xyzw, r1@temp0.xyzw, |r0@param0.xyzw
+mul r4@temp0.xyzw, r5@temp0.xyzw, r3@param0.xyzw
+madd r5@temp0.xyzw, r1@temp0.xyzw, r7@param0.xyzw, r5@param0.xyzw
